@@ -2,7 +2,7 @@
 
 ![播放器界面截图](screenshot.png)
 
-基于Python和PyGame开发的现代化音乐播放器，功能丰富
+基于Python和PyGame开发的音乐播放器，功能丰富，作者大一python实训所作
 
 ## 功能亮点
 

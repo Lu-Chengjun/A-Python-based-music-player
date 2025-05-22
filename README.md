@@ -58,5 +58,4 @@ Music-Player/
 │   └── 歌单/                   歌单存储
 │       └──示例歌单.json
 └── icon/                       界面资源
-bash
 ```

@@ -36,9 +36,9 @@
 ## 技术架构
 
 ### 核心依赖
-- 音频处理：`PyAudio` `librosa` `Mutagen`
-- 界面开发：`PyGame`
-- 数据分析：`numpy` `jieba` `matplotlib`
+- 音频处理：`librosa` `Mutagen`
+- 界面开发：`PyGame` `tkinter`
+- 数据分析：`numpy` `jieba`
 - 格式支持：暂仅支持MP3格式
 
 ```bash

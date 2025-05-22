@@ -1,4 +1,4 @@
-# 音乐播放器
+# python音乐播放器
 
 ![播放器界面截图](screenshot.png)
 

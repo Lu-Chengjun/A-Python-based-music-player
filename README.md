@@ -1,4 +1,4 @@
-# NiũNiũ 音乐播放器
+# 音乐播放器
 
 ![播放器界面截图](screenshot.png)
 
@@ -60,3 +60,4 @@ Music-Player/
 │       └──示例歌单.json
 └── icon/                       界面资源
 bash
+```
